@@ -1,0 +1,22 @@
+{
+  "name": "display-counter",
+  "version": "1.0.0",
+  "description": "Simple display counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tousifahmedah/displayCounter.git"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "“Tousif <“tousifahmed.h@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tousifahmedah/displayCounter/issues"
+  },
+  "homepage": "https://github.com/tousifahmedah/displayCounter#readme"
+}
