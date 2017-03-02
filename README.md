@@ -13,7 +13,7 @@ or
 
 Install using npm
 ```
-npm install displaycounter
+npm install display-counter
 ```
 
 #Example : 
